@@ -1,0 +1,6 @@
+{
+    "instanceMaxTTL": 3600,
+    "instanceMaxCount": 10,
+    "instanceMaxDataFlow": 100,
+    "instanceMaxMemory": 512
+}
